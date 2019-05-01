@@ -11,7 +11,7 @@ First:
 
 To Use:
 
-***-python3 CTSearcher.py -d <domain>***
+***-python3 CTSearcher.py -d [domain]***
 
 This data can be useful for both blue teams and red teams with gaining insight into what SSL/TLS certs have been issued in the name of the domain searched.
 
